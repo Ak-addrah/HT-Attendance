@@ -17,29 +17,39 @@ const AttendancePage = () => {
     setAttendees(storedAttendees);
   }, []);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (name.trim() && phone.trim()) {
-      const newAttendee = { id: Date.now(), name, phone, gender, denomination, residence, source };
-      const updatedAttendees = [...attendees, newAttendee];
-      setAttendees(updatedAttendees);
-      localStorage.setItem("attendees", JSON.stringify(updatedAttendees));
-
-      // Reset form fields
-      setName("");
-      setPhone("");
-      setGender("");
-      setDenomination("");
-      setResidence("");
-      setSource("");
-
-      // Show success popup
-      setShowPopup(true);
-
-      // Hide popup after 3 seconds
-      setTimeout(() => {
-        setShowPopup(false);
-      }, 3000);
+      const newAttendee = { name, phone, gender, denomination, residence, source };
+  
+      try {
+        const response = await fetch("http://localhost:8000/register", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(newAttendee),
+        });
+  
+        if (!response.ok) {
+          throw new Error("Failed to register!");
+        }
+  
+        const data = await response.json();
+        setAttendees([...attendees, data.attendee]); // Update UI
+        setName("");
+        setPhone("");
+        setGender("");
+        setDenomination("");
+        setResidence("");
+        setSource("");
+        setShowPopup(true);
+        
+        setTimeout(() => {
+          setShowPopup(false);
+        }, 3000);
+      } catch (error) {
+        console.error(error);
+        alert("Error registering attendee!");
+      }
     }
   };
 
