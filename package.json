@@ -16,5 +16,10 @@
     "url": "https://github.com/Ak-addrah/HT-Attendance/issues"
   },
   "homepage": "https://github.com/Ak-addrah/HT-Attendance#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security"
+  }
 }

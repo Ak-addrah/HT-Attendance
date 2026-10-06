@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1743357974484,
+    "name": "tet",
+    "phone": "hshsh",
+    "gender": "Male",
+    "denomination": "dddddd",
+    "residence": "dd",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358272204,
+    "name": "Ellen Obuobisa",
+    "phone": "0508729957",
+    "gender": "Female",
+    "denomination": "victory presby",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358429077,
+    "name": "Michael T. Koranteng ",
+    "phone": "0548701707",
+    "gender": "Male",
+    "denomination": "victory presby",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358540701,
+    "name": "Reuben Addey ",
+    "phone": "0275338579",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358630907,
+    "name": "Mary Atigah",
+    "phone": "0547496842",
+    "gender": "Female",
+    "denomination": "victory ",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358747678,
+    "name": "Rose Wireko ",
+    "phone": "0244796389",
+    "gender": "Female",
+    "denomination": "victory ",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358870786,
+    "name": "Mayfair Anim",
+    "phone": "0572132485",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743358973284,
+    "name": "Elizaheth Boateng ",
+    "phone": "0245520570",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359047879,
+    "name": "Susan Bruce ",
+    "phone": "0249399223",
+    "gender": "Female",
+    "denomination": "Spirit life ",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743359171970,
+    "name": "Vincentia Yeboah ",
+    "phone": "0559979957",
+    "gender": "Female",
+    "denomination": "spirit life ",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743359256063,
+    "name": "Lady Arabel ",
+    "phone": "0532635733 ",
+    "gender": "Female",
+    "denomination": "spirit life",
+    "residence": "Adenta",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743359370863,
+    "name": "Roberta ",
+    "phone": "0241441629",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Fafraha ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359474673,
+    "name": "Abokyi Doris ",
+    "phone": "0256260980",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Fafraha ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359562848,
+    "name": "Nyanteh Keziah ",
+    "phone": "0541118852",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Fafraha",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359661617,
+    "name": "Paul  ",
+    "phone": "0553367671",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359724844,
+    "name": "Paul Asiamah ",
+    "phone": "0557378313",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359796609,
+    "name": "Richmond  Amoh  ",
+    "phone": "0541579716",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743359879843,
+    "name": "Yaw Okyere ",
+    "phone": "0204333433",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Fafraha",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360031442,
+    "name": "Kwadwo ",
+    "phone": "0243172324",
+    "gender": "Male",
+    "denomination": "New life ",
+    "residence": "Fafraha",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743360220766,
+    "name": "Blessings",
+    "phone": "0507195650",
+    "gender": "Female",
+    "denomination": "Pentecost ",
+    "residence": "Madina ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743360343171,
+    "name": "Tyrrell Mensah ",
+    "phone": "0244393669",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360434005,
+    "name": "Tracina Aduobe ",
+    "phone": "0541762668",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360563380,
+    "name": "Donkor Philomena ",
+    "phone": "0549656504",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360682151,
+    "name": "Christiana Okai Mensah ",
+    "phone": "0244124856",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360837287,
+    "name": "Mabeel Nyantakyi",
+    "phone": "0244958308",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360921751,
+    "name": "Seth",
+    "phone": "0243638774 ",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743360983345,
+    "name": "Vera",
+    "phone": "0243449701",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Danfa ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743361056948,
+    "name": "Kelvin ",
+    "phone": "0506183662",
+    "gender": "Male",
+    "denomination": "victory ",
+    "residence": "Pantang",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743361140677,
+    "name": "Akua Brown ",
+    "phone": "0202009487",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743361244636,
+    "name": "Odjam  Comfort ",
+    "phone": "O546567189",
+    "gender": "Female",
+    "denomination": "victory ",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743361324491,
+    "name": "Adelaide Yeboah",
+    "phone": "0275025158",
+    "gender": "Female",
+    "denomination": "presby",
+    "residence": "Tema ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743361421151,
+    "name": "Samuel ",
+    "phone": "0502872631",
+    "gender": "Male",
+    "denomination": "Methodist",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743361545019,
+    "name": "Georgina ",
+    "phone": "05359093131",
+    "gender": "Female",
+    "denomination": "Methodist",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743361621642,
+    "name": "Odei Yirenkyi",
+    "phone": "0506913896",
+    "gender": "Male",
+    "denomination": "presby",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743361705219,
+    "name": "Abankwah Wendy ",
+    "phone": "0595013348",
+    "gender": "Female",
+    "denomination": "GWPM",
+    "residence": "Adenta ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743361781188,
+    "name": "Edem Annang",
+    "phone": "0244547681 ",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743361884202,
+    "name": "Franklin Asare ",
+    "phone": "0555098204",
+    "gender": "Male",
+    "denomination": "victory ",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743362134465,
+    "name": "Juliana Takyi- Donkor ",
+    "phone": "0241199445 ",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743362185890,
+    "name": "Amanda ",
+    "phone": "0247243388",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743362281696,
+    "name": "Abraham Teye",
+    "phone": "0244125550",
+    "gender": "Male",
+    "denomination": "Apostolic",
+    "residence": "Madina ",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743362445503,
+    "name": "Naa Borley ",
+    "phone": "0243847032",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Ogbojo",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743362519114,
+    "name": "Linda ",
+    "phone": "0242769216 ",
+    "gender": "Female",
+    "denomination": "victory ",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743362568061,
+    "name": "Belinda ",
+    "phone": "0244439194",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adenta ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743362687010,
+    "name": "Andrews  ",
+    "phone": "0244884715",
+    "gender": "Male",
+    "denomination": "victory",
+    "residence": "Adenta  ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743363024137,
+    "name": "Elizabeth",
+    "phone": "0244897723",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Oyarifa",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743368578115,
+    "name": "Adams Gideon ",
+    "phone": "050552395",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743368660272,
+    "name": "Naa Odarley",
+    "phone": "0261170444",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743368804827,
+    "name": "George Akoto",
+    "phone": "0554082085",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743368930403,
+    "name": "Patrick william",
+    "phone": "0200783178",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369044584,
+    "name": "W. Asiedu Asante",
+    "phone": "059805488",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369107730,
+    "name": "Emmanuel Osekre",
+    "phone": "0244279965",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adenta",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369173519,
+    "name": "Mavis Lartey ",
+    "phone": "0556293614",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369262684,
+    "name": "Atuabea Doris",
+    "phone": "0531492962",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369382638,
+    "name": "Jeffery Ablade ",
+    "phone": "0267172371",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369658481,
+    "name": "Kmadwo O. Antto",
+    "phone": "0504069189",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Fafraha",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369800741,
+    "name": "Abena Mensah ",
+    "phone": "0535592895",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "ADENTAN",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743369961081,
+    "name": "Paul Anthony Adu ",
+    "phone": "055231825",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Fafraha",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743370059848,
+    "name": "Sonful Enock Kwesi ",
+    "phone": "0556997083",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370239954,
+    "name": "Adjei Kofo Awo",
+    "phone": "0536450248",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370333214,
+    "name": "Oliva Nkansah Asare ",
+    "phone": "0558160853",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370434685,
+    "name": "Ann Doe",
+    "phone": "0240246054",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "New legon ",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370513241,
+    "name": "Naa Dromo",
+    "phone": "0539670089",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Oyarifa",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370639631,
+    "name": "Esther Oko Afari",
+    "phone": "0244665315",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Pantang",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370735317,
+    "name": "Agyei Elizabeth",
+    "phone": "0273227088",
+    "gender": "Female",
+    "denomination": "victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370796741,
+    "name": "FLORANCE",
+    "phone": "0273227088",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743370957346,
+    "name": "Emmanuel Mante",
+    "phone": "0243160961",
+    "gender": "Male",
+    "denomination": "VICTORY",
+    "residence": "ADENTAN",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371043204,
+    "name": "Ebenzer Doku",
+    "phone": "0247354976",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371154995,
+    "name": "Dora Sam Jones",
+    "phone": "0245493521",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "Oyarifa",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371255828,
+    "name": "OHENE AURELIA",
+    "phone": "0552883787",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371332124,
+    "name": "Constance Larbi",
+    "phone": "0549570141",
+    "gender": "Female",
+    "denomination": "Victory",
+    "residence": "ADENTAN",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371442687,
+    "name": "Hammond Benjamin",
+    "phone": "0547860233",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371516990,
+    "name": "Joseph Nti ",
+    "phone": "055720372",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "ADENTAN",
+    "source": "Media and Publications"
+  },
+  {
+    "id": 1743371595289,
+    "name": "Kassah Micheal",
+    "phone": "0531238960",
+    "gender": "Male",
+    "denomination": "Victory",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371729760,
+    "name": "Akua .B",
+    "phone": "0244988217",
+    "gender": "Female",
+    "denomination": "VICTORY",
+    "residence": "Adentan",
+    "source": "Church Announcement"
+  },
+  {
+    "id": 1743371842435,
+    "name": "Eric Hammah Yeaboah ",
+    "phone": "0243338600",
+    "gender": "Male",
+    "denomination": "VICTORY",
+    "residence": "ADENTAN",
+    "source": "Church Announcement"
+  }
+]
